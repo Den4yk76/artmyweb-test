@@ -1,0 +1,15 @@
+.container {
+    width: 1400px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.genderSelect {
+    margin-bottom: 20px;
+}
+
+.link {
+    color: black;
+}
