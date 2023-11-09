@@ -1,1 +1,1 @@
-Hello! This is a small app for managing fake users info
+Hello! This is a small app for managing mock users info
